@@ -1,26 +1,27 @@
 body {
-text-align: center;	
-background: url ("http://river-of-the-wolf.tumblr.com/post/153622616441/walletsandwhiskey-the-perfect-escape-for-the");
-background-size: center;
-background: #000;
-color: #fff;
-font-family: helvetica;
-font-weight: 100;
+	text-align: center;	
+	background-image: url("http://68.media.tumblr.com/948215d9a07d2e89d709aa281d50f9e1/tumblr_oi7qaiFPlx1shc1wyo1_500.jpg");
+	background-size: center;
+	color: #fff;
+	font-family: helvetica;
+	font-weight: 100;
+	padding:200px;
+
 }
-hr {width: 500px;
+
+hr {
+	width: 700px;
 }
 p{
-font-size: 10px
+	font-size: 10px;
 }
-h1 {text-align: center
+h1 {
+	text-align: center;
+	font-family: cursive;
+	font-size: 50px;
+	font-weight:100;
+	color: #5D6D7E;
 }
-h1 {font-family: cursive;
-}
-h1 {font-size: 50px;
-}	
-h1 {font-weight:100;
-}
-h1 {color: #5D6D7E;}
-#slogan {font-size: 20px}
-#slogan {font-weight: 25}
-#slogan {font-family: Georgia}
+#slogan {font-size: 20px;}
+#slogan {font-weight: 25;}
+#slogan {font-family: Georgia;}

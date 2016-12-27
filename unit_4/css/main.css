@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Infant|Josefin+Sans|Slabo+27px');
+
+body {
+	text-align: center;	
+	background: url("https://static1.squarespace.com/static/53065ecbe4b0cca0183fd04b/t/54fdc540e4b0563d742ea2e9/1425917257614/campfirecoffeelookbook-0073.jpg");
+	background-size: cover;
+	font-family: 'Cormorant Infant', serif;
+	font-weight: 100;
+}
+
+header nav { 
+	float: right;
+	}
+	nav a {
+		color: #2e4053;
+		font-style: bold;
+		text-transform: uppercase;
+		margin-right: 18px;
+	}
+hr {
+	width: 1250px;
+}
+p{
+	font-size: 15px;
+	font-family: 'Cormorant Infant', serif;
+	color: #d5dbdb;
+	text-align: center;
+
+	}
+h1 {
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 55px;  
+	font-weight: 75;
+	color:  #34495e;
+}
+img{
+	display: block;
+	margin: auto;
+	width: 50%;
+	padding-top: 25px;
+}
+#slogan {font-size: 12px}
+#slogan {font-weight: 15}
+#slogan {font-family: Georgia}
