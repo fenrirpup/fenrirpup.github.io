@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Infant|Josefin+Sans|Slabo+27px');
+
+body {
+	text-align: center;	
+	background-color: #aeb6bf;   
+	background-size: cover;
+	font-family: 'Cormorant Infant', serif;
+	font-weight: 100;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+header nav { 
+	float: right;
+	}
+	nav a {
+		color: #E8C66A;
+		font-style: bold;
+		text-transform: uppercase;
+		margin-right: 18px;
+	}
+hr {
+	width: 1250px;
+}
+footer{
+	font-size: 20px;
+	font-family: 'Cormorant Infant', serif;
+	text-align: center;
+	border: 1px black solid;
+	background-color: #FF957E;
+	padding:20px;
+	}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid; 
+	padding: 20px;
+	float: left;
+	width:30%;
+}
+
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+h4 {
+
+	border-color: white;
+	border-style: double;
+	width: 700px;
+	text-align: center;
+	padding: .8em 4 .8em 4;
+}
+
+
+h3 {
+
+	border-color: white;
+	border-style: double;
+	width: 700px;
+	text-align: center;
+	padding: .8em 0 .8em 0;
+}
+
+
+h2 {
+	border-color: white;
+	border-style: double;
+	width: 700px;
+	text-align: center;
+	padding: .8em 0 .8em 0;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 55px;  
+	font-weight: 75;
+	color: #f1c40f;
+}
+img{
+	display: block;
+	margin: auto;
+	width: 50%;
+	padding-top: 25px;
+}
+
+ul{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+
+}
+p,li {
+	font-size:1em;
+	line-height: 1.5em; 
+}
+
+#wrapper {
+	width: 1000px;
+	margin-left: auto;	
+	margin-right: auto;
+}
+
+#next_contact {
+	background-color: black;
+	color:white;
+	padding:20px;
+}
+#slogan {font-size: 12px}
+#slogan {font-weight: 15}
+#slogan {font-family: Georgia}
+
